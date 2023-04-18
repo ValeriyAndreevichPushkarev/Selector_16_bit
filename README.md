@@ -29,11 +29,11 @@ results - synthesis results for all types of projects
 		1)ABC: netlist                       : i/o =   13/ 4096  lat =    0  nd = 10047  edge =  22454  area =78924.27  delay = 6.00  lev = 6
 		Delay =  1533.06 ps 
 
-    After synthesis explore, we have 5k gates for 4098 lanes, or about 1 transistor gate per lane(!).
-    
-    High-speed version have 10047 gates for 4098 lanes.
-    
-    Delay for 12 bit selector is 1234.39 ps, that is comparable with 16 bit adder(!).
+After synthesis explore, we have 5k gates for 4098 lanes, or about **1 transistor gate per lane(!)**.
+
+High-speed version have **10047 gates for 4098 lanes**.
+
+Delay for 12 bit selector is 1234.39 ps, that is comparable with 16 bit adder(!).
     
 
 ### Testbenches:
