@@ -39,4 +39,4 @@ Delay for **12 bit selector is 1234.39 ps, that is comparable with 16 bit adder(
 ### Testbenches:
 	Smoke test (select first lane)
   	User test (select N lane)
-	10 self-check tests with random numbers
+	10 self-check tests with random numbers (and check lines nearby)
