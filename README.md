@@ -33,10 +33,10 @@ After synthesis explore, we have 5k gates for 4098 lanes, or about **1 transisto
 
 High-speed version have **10047 gates for 4098 lanes**.
 
-Delay for 12 bit selector is 1234.39 ps, that is comparable with 16 bit adder(!).
+Delay for **12 bit selector is 1234.39 ps, that is comparable with 16 bit adder(!)**.
     
 
 ### Testbenches:
 	Smoke test (select first lane)
-  User test (select N lane)
+  	User test (select N lane)
 	10 self-check tests with random numbers
