@@ -1,5 +1,3 @@
-# Selector_12bit
-Contains sythesis results for selector(12 bit)
 Presentation based on my repos (https://github.com/ValeryAndreevichPushkarev)
 
 ### Structure
