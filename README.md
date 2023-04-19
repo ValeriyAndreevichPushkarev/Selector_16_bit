@@ -32,6 +32,8 @@ After synthesis explore, we have 5k gates for 4098 lanes, or about **1 transisto
 High-speed version have **10047 gates for 4098 lanes**.
 
 Delay for **12 bit selector is 1234.39 ps, that is comparable with 16 bit adder(!)**.
+
+According to (https://www.eng.auburn.edu/~uguin/teaching/E4200_Spring_2021/lecture-slides/Lecture-6-Memory-Models , slide 15) modern DDR4 modules have DDR banks that works only on 100-255 Mhz.
     
 
 ### Testbenches:
