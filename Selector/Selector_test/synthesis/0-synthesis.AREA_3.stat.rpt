@@ -1,0 +1,24 @@
+
+132. Printing statistics.
+
+=== Selector_test ===
+
+   Number of wires:               1078
+   Number of wire bits:           5184
+   Number of public wires:           3
+   Number of public wire bits:    4109
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:               5171
+     sky130_fd_sc_hd__buf_1        390
+     sky130_fd_sc_hd__buf_2        139
+     sky130_fd_sc_hd__buf_4        207
+     sky130_fd_sc_hd__inv_2         10
+     sky130_fd_sc_hd__nand2_2      282
+     sky130_fd_sc_hd__nand3_2        8
+     sky130_fd_sc_hd__nor2_2      4132
+     sky130_fd_sc_hd__nor2b_2        3
+
+   Chip area for module '\Selector_test': 31471.433600
+
