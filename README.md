@@ -39,6 +39,8 @@ Delay for **12 bit selector is 1234.39 ps, that is comparable with 16 bit adder(
 2) **110645 gates 65536 lanes, 2 gates per lane**. Delay is twise bigger than 16 bit carry-lookahead adder has.
 
 According to (https://www.eng.auburn.edu/~uguin/teaching/E4200_Spring_2021/lecture-slides/Lecture-6-Memory-Models , slide 15) modern DDR4 modules have DDR banks that works only on 100-255 Mhz.
+
+Anyway, on 7nm and less delay is about 40 ps.
     
 
 ### Testbenches:
